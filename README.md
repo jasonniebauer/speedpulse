@@ -1,5 +1,5 @@
 # SpeedPulse
-Monitor internet speed on Streamlit's cloud server. Run locally to monitor your own internet speed.
+Monitor internet speed on Streamlit's Community Cloud server. Run locally to monitor your own internet speed.
 
 ## Demo
 
