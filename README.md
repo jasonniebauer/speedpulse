@@ -1,6 +1,6 @@
 # SpeedPulse
 Monitor internet speed on Streamlit's Community Cloud server. Run locally to monitor your own internet speed.
 
-## Demo
+## View App
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://speedpulse.streamlit.app)
